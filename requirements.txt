@@ -1,6 +1,6 @@
 streamlit
 pypdf
-python-dotenv
+dotenv
 pandas
 langchain
 replicate
