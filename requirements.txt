@@ -1,0 +1,6 @@
+streamlit
+pypdf
+python-dotenv
+pandas
+langchain
+replicate
